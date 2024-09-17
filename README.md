@@ -3,11 +3,11 @@
 This project focuses on Credit Risk Assessment by performing an Exploratory Data Analysis (EDA) using Python. The goal is to identify patterns and key factors that contribute to loan defaults, thereby supporting more informed lending decisions and improving the overall quality of the loan portfolio. The analysis is conducted using two datasets: one containing current loan application data and another detailing previous loan applications.
 
 ## Datasets
-application_data.csv: This dataset includes detailed information on current loan applications, such as client demographics, income, loan amount, and other financial indicators.
+* application_data.csv: This dataset includes detailed information on current loan applications, such as client demographics, income, loan amount, and other financial indicators.
 Rows: 307,511
 Columns: 122
 
-previous_application.csv: This dataset contains records of previous loan applications made by clients, providing insights into their borrowing history and past interactions with the lending institution.
+* previous_application.csv: This dataset contains records of previous loan applications made by clients, providing insights into their borrowing history and past interactions with the lending institution.
 Rows: 1,670,214
 Columns: 37
 
@@ -43,9 +43,9 @@ Categorical Features: Examined the impact of variables like loan type, gender, a
 * Correlation Insights: Higher external credit scores and older age are associated with a lower likelihood of loan default, while shorter employment duration slightly increases default risk.
   
 ## Tools & Technologies
-Python: Used for data analysis with libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
-Jupyter Notebook: Employed for running the Python code and performing EDA.
-Visual Studio Code: Used as the development environment for the project.
+* Python: Used for data analysis with libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
+* Jupyter Notebook: Employed for running the Python code and performing EDA.
+* Visual Studio Code: Used as the development environment for the project.
 
 ## Conclusion & Recommendations
 * Focus on high-risk clients, particularly younger individuals and those with lower credit scores, by enhancing scoring models with additional variables like occupation and contract types.
@@ -60,4 +60,4 @@ Open PYTHON EDA PROJECT- ANALYSIS PART1.ipynb and PYTHON EDA PROJECT- ANALYSIS P
 Execute the cells in the Jupyter Notebooks to perform the EDA and view the results.
 
 ## Contact
-For any questions or suggestions, please reach out to LinkedIn | Swetha Kizhavana Joseph
+For any questions or suggestions, please reach out to  [LinkedIn | Swetha Kizhavana Joseph](https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/)
