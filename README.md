@@ -25,8 +25,8 @@ Columns: 37
 2. Exploratory Data Analysis (EDA)
 * Descriptive Statistics: Basic statistical summaries and visualizations to understand data distribution.
 * Risk Analysis:
-a) **Numerical Features: Analyzed distributions and potential risk factors such as loan amounts and income levels.
-b) **Categorical Features: Examined the impact of variables like loan type, gender, and income source on default rates.
+a) **Numerical Features**: Analyzed distributions and potential risk factors such as loan amounts and income levels.
+b) **Categorical Features**: Examined the impact of variables like loan type, gender, and income source on default rates.
 * Correlation Analysis: A heatmap was used to explore correlations between variables and their relationship with loan default risk.
 * Pair Plot Analysis: Investigated relationships between financial variables and their impact on loan defaults.
   
