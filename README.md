@@ -56,5 +56,9 @@ Open PYTHON EDA PROJECT- ANALYSIS PART1.ipynb and PYTHON EDA PROJECT- ANALYSIS P
 * Run the Analysis:
 Execute the cells in the Jupyter Notebooks to perform the EDA and view the results.
 
+## Dataset
+The datasets used in this project are available for download here:
+[Download Datasets (Google Drive)](https://drive.google.com/drive/folders/14sGIpYRss-DQmSc9Ydj0MXrvuuMwBX6A?usp=sharing).
+
 ## Contact
 For any questions or suggestions, please reach out to  [LinkedIn | Swetha Kizhavana Joseph](https://www.linkedin.com/in/swetha-kizhavana-joseph-04b68721b/)
