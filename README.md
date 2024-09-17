@@ -4,12 +4,10 @@ This project focuses on Credit Risk Assessment by performing an Exploratory Data
 
 ## Datasets
 * application_data.csv: This dataset includes detailed information on current loan applications, such as client demographics, income, loan amount, and other financial indicators.
-Rows: 307,511
-Columns: 122
+Rows: 307,511, Columns: 122
 
 * previous_application.csv: This dataset contains records of previous loan applications made by clients, providing insights into their borrowing history and past interactions with the lending institution.
-Rows: 1,670,214
-Columns: 37
+Rows: 1,670,214, Columns: 37
 
 ## Key Objectives
 * Identify Key Risk Factors: Determine factors that indicate a higher likelihood of loan defaults.
